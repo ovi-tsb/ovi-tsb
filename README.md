@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ovi-tsb
 - 👀 I’m interested in Ruby On Rails
-- 🌱 I’m currently learning and building Rails aplications and I'm the founder of Online Business Solutions
+- 🌱 I’m currently building Rails aplications and I'm the founder of Online Business Solutions
 - 💞️ I’m looking to collaborate on my projects with Rails passionate developers
 - 📫 You can send me emails at ovi_tsb@yahoo.com
 
